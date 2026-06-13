@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building: EcoPoin — Platform Bank Sampah Digital dengan Sistem Reward Poin<br>🌱 Currently learning: Web Development<br>📄 Resume: View here
+🔭 Currently building: EcoPoin — Platform Bank Sampah Digital dengan Sistem Reward Poin<br>🌱 Currently learning: Web Development<br>📄 Resume: View here (https://drive.google.com/file/d/1gb9xnQ_gDvwjpnBBe70K1GeM8MmcYhXm/view?usp=sharing)
 
 
 ## 🌐 Socials:
