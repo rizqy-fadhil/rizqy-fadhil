@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Currently building: EcoPoin — Platform Bank Sampah Digital dengan Sistem Reward Poin<br>🌱 Currently learning: Web Development<br>📄 Resume: View here (https://drive.google.com/file/d/1gb9xnQ_gDvwjpnBBe70K1GeM8MmcYhXm/view?usp=sharing)
-
+🔭 Currently building: EcoPoin — Platform Bank Sampah Digital dengan Sistem Reward Poin<br>🌱 Currently learning: Web Development<br>📄 Resume: [View here](https://drive.google.com/file/d/1gb9xnQ_gDvwjpnBBe70K1GeM8MmcYhXm/view?usp=sharing)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizqy.fadhil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizqy-fadhil-athallah-23681b30a) 
